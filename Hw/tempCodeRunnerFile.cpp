@@ -1,0 +1,1 @@
+  maze[i][index_of_previous_path] = '.';
